@@ -1681,7 +1681,7 @@ function ProfilPage() {
               👩‍⚕️
             </div>
             <div className="flex-1">
-              <h2 className="text-4xl font-bold bg-gradient-to-r from-emerald-600 to-green-600 bg-clip-text text-transparent mb-6">Bidan Alfera Azmi, Amd.Keb</h2>
+              <h2 className="text-4xl font-bold bg-gradient-to-r from-emerald-600 to-green-600 bg-clip-text text-transparent mb-6">Bidan Alfera Azmi, S.Keb</h2>
               <div className="space-y-4 text-gray-700">
                 <p className="flex items-start gap-3 bg-emerald-50 p-3 rounded-xl">
                   <strong className="text-emerald-600 min-w-[140px] flex-shrink-0">📜 No. SIPB:</strong>
