@@ -8,7 +8,7 @@ import {
 import logo from './kakla.png'; // <-- PASTIKAN LOGO ADA DI FOLDER YANG SAMA
 
 // URL API Backend Anda di XAMPP
-const API_URL = 'http://api-klinik.test';
+const API_URL = 'https://bidandesa.infinityfreeapp.com/api-klinik';
 
 // --- BARU: Icon Helper ---
 // Peta untuk memetakan nama string ke komponen ikon yang diimpor
